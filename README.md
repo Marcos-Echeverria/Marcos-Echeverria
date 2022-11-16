@@ -2,7 +2,6 @@
 
 
 <h2 align="center">Actualmente me encuentro en la búsqueda laboral activa, con muchas ganas de aprender y seguir desarrollandome.</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srlosco&demo=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlosco)](https://github.com/anuraghazra/github-readme-stats)
 

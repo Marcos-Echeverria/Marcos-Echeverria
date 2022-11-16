@@ -1,9 +1,9 @@
-<h1 align="center">Hola soy, Marcos Echeverria</h1>
+<h1 align="center">Hola, soy Marcos Echeverría</h1>
 
 
-<h2 align="center">Actualmente me encuentro en la busqueda laboral activa, con muchas ganas de aprender y seguir desarrollandome.</h2>
+<h2 align="center">Actualmente me encuentro en la búsqueda laboral activa, con muchas ganas de aprender y seguir desarrollandome.</h2>
 
-<h3 align="left">Contáctame por esta via:</h3>
+<h3 align="left">Contáctame por este medio:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-echeverria-276860180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-echeverria-276860180" height="30" width="40" /></a>
 </p>

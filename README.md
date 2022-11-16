@@ -1,9 +1,9 @@
 <h1 align="center">Hola soy, Marcos Echeverria</h1>
-<h3 align="center">Estudiante de programación web.</h3>
+
 
 <h2 align="center">Actualmente me encuentro en la busqueda laboral activa, con muchas ganas de aprender y seguir desarrollandome.</h2>
 
-<h3 align="left">Contactame por esta via:</h3>
+<h3 align="left">Contáctame por esta via:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-echeverria-276860180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-echeverria-276860180/" height="30" width="40" /></a>
 </p>

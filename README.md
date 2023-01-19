@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="200" />
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlosco&show_icons=true&theme=transparent)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=srlosco)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Contáctame por este medio:</h3>
 <p align="left">

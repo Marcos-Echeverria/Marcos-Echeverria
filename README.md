@@ -10,10 +10,11 @@
 
 Por ahora llevo realizados estos 3 proyectos: 
 <br>
-zazuagex.pythonanywhere.com/
+[zazuagex.pythonanywhere.com/](http://zazuagex.pythonanywhere.com/)
 <br>
-tpo.vercel.app
-ecommerce-srlosco.vercel.app
+http://tpo.vercel.app
+<br>
+http://ecommerce-srlosco.vercel.app
 
 <h3 align="left">Contáctame por este medio:</h3>
 <p align="left">

@@ -8,6 +8,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlosco)](https://github.com/anuraghazra/github-readme-stats:master)
 
+Por ahora llevo realizados estos 3 proyectos: 
+zazuagex.pythonanywhere.com/
+tpo.vercel.app
+ecommerce-srlosco.vercel.app
+
 <h3 align="left">Contáctame por este medio:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-echeverria-276860180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-echeverria-276860180" height="30" width="40" /></a>

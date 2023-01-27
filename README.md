@@ -9,7 +9,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlosco)](https://github.com/anuraghazra/github-readme-stats:master)
 
 Por ahora llevo realizados estos 3 proyectos: 
+<br>
 zazuagex.pythonanywhere.com/
+<br>
 tpo.vercel.app
 ecommerce-srlosco.vercel.app
 

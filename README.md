@@ -14,7 +14,7 @@ Ecommerce backend con base de datos: [zazuagex.pythonanywhere.com/](http://zazua
 <br>
 Frontend: http://tpo.vercel.app
 <br>
-Eccomerce frontend: http://ecommerce-srlosco.vercel.app
+Ecommerce frontend: http://ecommerce-srlosco.vercel.app
 <br>
 Calculadora: https://calculadora-srlosco.vercel.app/
 <br>

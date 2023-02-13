@@ -10,13 +10,15 @@
 
 Por ahora llevo realizados estos proyectos: 
 <br>
-[zazuagex.pythonanywhere.com/](http://zazuagex.pythonanywhere.com/)
+Ecommerce backend con base de datos: [zazuagex.pythonanywhere.com/](http://zazuagex.pythonanywhere.com/)
 <br>
-http://tpo.vercel.app
+Frontend: http://tpo.vercel.app
 <br>
-http://ecommerce-srlosco.vercel.app
+Eccomerce frontend: http://ecommerce-srlosco.vercel.app
 <br>
-https://calculadora-srlosco.vercel.app/
+Calculadora: https://calculadora-srlosco.vercel.app/
+<br>
+App que devuelve el clima de tu ciudad: https://clima-srlosco.vercel.app/
 
 <h3 align="left">Contáctame por este medio:</h3>
 <p align="left">

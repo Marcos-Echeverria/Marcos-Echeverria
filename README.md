@@ -19,6 +19,8 @@ Ecommerce frontend: http://ecommerce-srlosco.vercel.app
 Calculadora: https://calculadora-srlosco.vercel.app/
 <br>
 App que devuelve el clima de tu ciudad: https://clima-srlosco.vercel.app/
+<br>
+Sitio web desarrollado en google sites: https://sites.google.com/view/hardpcomponentes/inicio
 
 <h3 align="left">Contáctame por este medio:</h3>
 <p align="left">

@@ -8,20 +8,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srlosco)](https://github.com/anuraghazra/github-readme-stats:master)
 
-Por ahora llevo realizados estos proyectos: 
-<br>
-Ecommerce backend con base de datos: [zazuagex.pythonanywhere.com/](http://zazuagex.pythonanywhere.com/)
-<br>
-Frontend: http://tpo.vercel.app
-<br>
-Ecommerce frontend: http://ecommerce-srlosco.vercel.app
-<br>
-Calculadora: https://calculadora-srlosco.vercel.app/
-<br>
-App que devuelve el clima de tu ciudad: https://clima-srlosco.vercel.app/
-<br>
-Sitio web desarrollado en google sites: https://sites.google.com/view/hardpcomponentes/inicio
-
 <h3 align="left">Contáctame por este medio:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcos-echeverria-276860180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-echeverria-276860180" height="30" width="40" /></a>

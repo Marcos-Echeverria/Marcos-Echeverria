@@ -1,5 +1,9 @@
 <h1 align="center">Hola, soy Marcos Echeverría <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> 
-"> sample text"
+```
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
 <h2 align="center">Actualmente me encuentro en la búsqueda laboral activa, con muchas ganas de aprender y seguir desarrollandome.</h2>
 

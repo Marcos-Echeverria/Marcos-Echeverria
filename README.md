@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="330" height="200" />
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Echeverria)](https://github.com/anuraghazra/github-readme-stats:master)
+
 
 <h3 align="left">Contáctame por este medio:</h3> 
 <p align="left"> 
